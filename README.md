@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there
 
-Orapin Nakoon
-Mew
+My name is Orapin Nakoon, but you may call me by my nickname, Mew
+and I am studying in the Faculty of Engineering, majoring in Artificial Intelligence Engineering and Data Science
 
 <!--
 **sebamyu/sebamyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
