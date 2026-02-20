@@ -1,12 +1,13 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=900&color=F5275B&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Mew+👋;AI+Engineering+%26+Data+Science+Student;Full-Stack+Developer+|+ML+Learner;Code+.+Analyze+.+Innovate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&pause=1000&color=F5275B&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Mew+👋;AI+Engineering+%26+Data+Science;Full-Stack+Developer;Code+%7C+Analyze+%7C+Innovate" />
 
-  <h3>Hi! I'm <b>Orapin Nakoon</b> — you can call me <b>Mew</b> 🐾</h3>
+  <h2>👋 Hi there! I'm <b>Orapin Nakoon</b> — you can call me <b>Mew</b> 🐾</h2>
+
   <p>
-    🎓 <b>Artificial Intelligence Engineering & Data Science</b>  
-    <br>
-    🔎 Passionate about <b>Full-Stack Development, AI, Automation, and Data</b>
+    🎓 <b>Artificial Intelligence Engineering & Data Science Student</b><br>
+    💡 Passionate about <b>AI, Machine Learning, Automation, and Web Development</b><br>
+    🚀 I love building <b>real-world applications</b> that solve real problems.
   </p>
 
 </div>
@@ -15,72 +16,76 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on:  
-  **AI English Writing Web App (Next.js + FastAPI + n8n)**  
+- 🔭 Currently working on:  
+  **AI Writing Web App (Next.js + FastAPI + n8n + AI Scoring)**
 
-- 🌱 I’m learning more about:  
-  **Machine Learning, Data Engineering, Backend Architecture**
+- 🌱 Learning and improving in:  
+  **Machine Learning, Data Engineering, Backend Architecture, Cloud DevOps**
 
-- 👯 I love collaborating on:  
-  **Web Apps, AI tools, Dashboards, Automation Workflows**
+- 👯 I enjoy collaborating on:  
+  **AI tools, Dashboards, Web Apps, Automation Systems**
 
 - ⚡ Fun fact:  
-  I debug faster with iced coffee ☕ + EDM 🎧
+  Coding + Iced Coffee = My Superpower ☕⚡
 
 ---
 
 ## 🛠️ Languages & Tools
+
 <div align="center">
 
-### **Programming & Web**
+### 🔹 Programming & Web
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### **Data / AI**
+### 🔹 Data / AI
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### **Tools / DevOps**
+### 🔹 Tools / DevOps / Database
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Worddee.ai – AI-Powered English Learning  
-**Tech:** Next.js, FastAPI, n8n, Chart.js  
-✔ Built full-stack AI system for grammar checking & scoring  
-✔ Designed Dashboard for learning insights  
-✔ Integrated “Word of the Day” API with real-time feedback  
-🔗 Repo: https://github.com/Barbiesom1001/WORDDEE-AI.git  
+### ⭐ **1) Worddee.ai — AI-Powered English Writing App**
+**Tech:** Next.js, FastAPI, n8n, Chart.js, REST API  
+- AI evaluates grammar + gives writing suggestions  
+- “Word of the Day” challenge auto-fetch system  
+- Interactive Dashboard for learning progress  
+
+🔗 GitHub Repo: https://github.com/Barbiesom1001/WORDDEE-AI.git
 
 ---
 
-### 📌 Income & Expense Management System (AIE313 Project)  
-**Tech:** PHP, MySQL, HTML/CSS, Alpine.js, Awardspace  
-✔ Financial Dashboard with real-time balance updates  
-✔ Fully normalized SQL Database (ERD + Relational Schema)  
-✔ SPA-based real-time UI using Alpine.js  
-🔗 Live Demo: http://orapin-1660904689.atwebpages.com/projectaie313/web_finance_full.html  
+### ⭐ **2) Income & Expense Management System (AIE313)**
+**Tech:** PHP, MySQL, HTML/CSS, Alpine.js  
+- Real-time dashboard for income/expense summary  
+- Full SQL CRUD + Database Normalization (ERD + Schema)  
+- Deployed on Awardspace  
+
+🔗 Live Demo:  
+http://orapin-1660904689.atwebpages.com/projectaie313/web_finance_full.html  
 
 ---
 
-### 📌 Food Consumption Behavior Analysis (Machine Learning)  
-**Tech:** Python, Pandas, Logistic Regression, Matplotlib  
-✔ Cleaned & analyzed real survey data  
-✔ Trained ML model to predict nutrition planning needs  
-✔ Created confusion matrix & visualization  
+### ⭐ **3) Food Consumption Behavior Data Analysis (ML Project)**
+**Tech:** Python, Pandas, Matplotlib, Logistic Regression  
+- Built ML model to predict AI nutrition planning interest  
+- Visualization dashboard + confusion matrix  
+- Data cleaning + preprocessing pipelines  
 
 ---
 
@@ -90,6 +95,20 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sebamyu&show_icons=true&theme=tokyonight" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebamyu&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Activities & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sebamyu&theme=dracula&margin-w=10&no-frame=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebamyu&theme=react-dark"/>
 
 </div>
 
@@ -112,8 +131,8 @@
 ---
 
 <div align="center">
-  
-✨ *Thanks for visiting my profile!* ✨  
-🌱 *Always learning. Always building.* 🌱
+
+✨ *Thanks for stopping by my profile!* ✨  
+🚀 *Always learning. Always building.* 🚀
 
 </div>
