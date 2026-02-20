@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Mew+👋;AI+Engineering+%26+Data+Science;Full-Stack+Developer;Code+%7C+Analyze+%7C+Innovate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&pause=1000&color=90EE90&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Mew+👋;AI+Engineering+%26+Data+Science;Full-Stack+Developer;Code+%7C+Analyze+%7C+Innovate" />
 
   <h2>👋 Hi there! I'm <b>Orapin Nakoon</b> — you can call me <b>Mew</b> 🐾</h2>
 
